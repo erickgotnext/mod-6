@@ -1,0 +1,12 @@
+/Users/erickmeraz/Desktop/mod 6/Array.List/Array.List/bin/Debug/netcoreapp3.1/Array.List.deps.json
+/Users/erickmeraz/Desktop/mod 6/Array.List/Array.List/bin/Debug/netcoreapp3.1/Array.List.runtimeconfig.json
+/Users/erickmeraz/Desktop/mod 6/Array.List/Array.List/bin/Debug/netcoreapp3.1/Array.List.runtimeconfig.dev.json
+/Users/erickmeraz/Desktop/mod 6/Array.List/Array.List/bin/Debug/netcoreapp3.1/Array.List.dll
+/Users/erickmeraz/Desktop/mod 6/Array.List/Array.List/bin/Debug/netcoreapp3.1/Array.List.pdb
+/Users/erickmeraz/Desktop/mod 6/Array.List/Array.List/obj/Debug/netcoreapp3.1/Array.List.csprojAssemblyReference.cache
+/Users/erickmeraz/Desktop/mod 6/Array.List/Array.List/obj/Debug/netcoreapp3.1/Array.List.AssemblyInfoInputs.cache
+/Users/erickmeraz/Desktop/mod 6/Array.List/Array.List/obj/Debug/netcoreapp3.1/Array.List.AssemblyInfo.cs
+/Users/erickmeraz/Desktop/mod 6/Array.List/Array.List/obj/Debug/netcoreapp3.1/Array.List.csproj.CoreCompileInputs.cache
+/Users/erickmeraz/Desktop/mod 6/Array.List/Array.List/obj/Debug/netcoreapp3.1/Array.List.dll
+/Users/erickmeraz/Desktop/mod 6/Array.List/Array.List/obj/Debug/netcoreapp3.1/Array.List.pdb
+/Users/erickmeraz/Desktop/mod 6/Array.List/Array.List/obj/Debug/netcoreapp3.1/Array.List.genruntimeconfig.cache
