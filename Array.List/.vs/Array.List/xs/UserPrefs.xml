@@ -1,6 +1,6 @@
 ﻿<Properties StartupConfiguration="{94C3C7ED-FAA1-438E-8D70-5AFF5B83D6CB}|Default">
   <MonoDevelop.Ide.ItemProperties.Array.List PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Array.List/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../list.array">
     <Files>
       <File FileName="Array.List/Program.cs" Line="9" Column="10" />
     </Files>
